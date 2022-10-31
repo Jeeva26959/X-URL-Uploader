@@ -16,7 +16,7 @@
   ],
   "success_url": "https://t.me/xurluploaderbot",
   "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/X-URL-Uploader",
+  "repository": "https://github.com/Jeeva26959/Url-uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -35,7 +35,7 @@
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot (your id).",
+      "description": "allow only pre-defined users to use this bot (25707160).",
       "value": "87371682 98736827 72736723"
     },
     "DEF_THUMB_NAIL_VID_S": {
